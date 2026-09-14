@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dimitri Lazidis 👋</h1>
-<p align="center"><b>mitti-tax</b> (also written <code>mitti_tax</code>) — software engineer & CS student based in Perth, Western Australia</p>
+<h1 align="center">Hi, I'm Dimitri Lazidis</h1>
+<p align="center"><b>mitti-tax</b> (also written <code>mitti_tax</code>) software engineer & CS student based in Perth, Western Australia</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dimitri-lazidis-9098ba3bb/"><img src="https://img.shields.io/badge/LinkedIn-Dimitri%20Lazidis-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,7 +17,7 @@ I'm a final-year Computer Science student at Murdoch University (Bachelor of IT,
 I recently completed a Junior Developer internship at **Imvelo Pty Ltd**, contributing to a live enterprise application (React, TypeScript, C#/.NET), including UI work on optimisation dashboards and export tooling for GeoTIFF, DXF, and CSV formats.
 
 - 🎓 Final-year BIT (Computer Science) @ Murdoch University
-- 💼 Junior Developer Intern experience — React, TypeScript, C#/.NET
+- 💼 Junior Developer Intern experience - React, TypeScript, C#/.NET
 - 🏠 Runs a home lab with Docker, TrueNAS, and a locally-hosted LLM assistant (Ollama)
 - 🔧 Hobbies outside code: hardware repair, micro-soldering, and playing bass, guitar, piano, and double bass
 - 📜 Microsoft Certified: Azure AI Fundamentals (AI-900)
@@ -47,6 +47,6 @@ I recently completed a Junior Developer internship at **Imvelo Pty Ltd**, contri
 
 ### Connect
 
-Looking for graduate/junior software engineering roles — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dimitri-lazidis-9098ba3bb/) or [email](mailto:dimitrilazidis@outlook.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dimitri-lazidis-9098ba3bb/) or [email](mailto:dimitrilazidis@outlook.com).
 
-<sub>This is the special <code>mitti-tax/mitti-tax</code> profile README — it powers the "About" section on <a href="https://github.com/mitti-tax">github.com/mitti-tax</a>.</sub>
+<sub>This is the special <code>mitti-tax/mitti-tax</code> profile README - it powers the "About" section on <a href="https://github.com/mitti-tax">github.com/mitti-tax</a>.</sub>
